@@ -17,3 +17,5 @@ To get started with the Criccbuzz API Django project, follow these steps:
 3. **Usage of the API**:
    ```bash
    python manage.py runserver
+   ```
+   I have attatched the postman collection which can be used the test the API's. 
